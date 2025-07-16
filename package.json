@@ -1,9 +1,8 @@
 {
   "name": "moshfy-project",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +17,6 @@
   "homepage": "https://github.com/jordansantos91/moshfy-project--jordan#readme",
   "description": "",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel": "^2.15.4"
   }
 }
