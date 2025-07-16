@@ -1,0 +1,23 @@
+{
+  "name": "moshfy-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordansantos91/moshfy-project--jordan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordansantos91/moshfy-project--jordan/issues"
+  },
+  "homepage": "https://github.com/jordansantos91/moshfy-project--jordan#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
